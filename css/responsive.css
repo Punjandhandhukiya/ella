@@ -1,0 +1,35 @@
+
+
+@media screen and (max-width:1199px){
+    .pro_imgg{
+        padding-right: 30px;
+    }
+    
+}
+@media screen and (max-width:767px){
+    .pro_imgg{
+        padding-right: 0px;
+    }
+    
+    .con_det{
+        margin-left: 0px;
+    }
+    .cosmopolis_box h2{
+        font-size: 24px;
+        margin: 0px 0px 8px;
+        padding: 0px 0px 10px;
+    }
+    .cosmopolis_box{
+        width: auto;
+    }
+    .cosmopolis_box p{
+        margin-bottom: 20px;
+    }
+
+}
+
+@media screen and (min-width:1199) {
+    /* .navigation{
+        position: relative;
+    } */
+}
